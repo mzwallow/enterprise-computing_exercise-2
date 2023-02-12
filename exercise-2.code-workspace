@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "LiveScore"
+		},
+		{
+			"path": "LiveScoreSubscriber"
+		},
+		{
+			"path": "JMSPrimeServer"
+		},
+		{
+			"path": "JMSPrimeClient"
+		}
+	],
+	"settings": {}
+}
